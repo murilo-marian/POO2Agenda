@@ -1,0 +1,6 @@
+persistencia\PersistenciaXML.class
+persistencia\IPersistencia.class
+contatos\Contato.class
+persistencia\PersistenciaJSON.class
+persistencia\PersistenciaCSV.class
+persistencia\PersistenciaMySQL.class
