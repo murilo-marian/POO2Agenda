@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contatos>
+    <contato>
+        <name>Saloi</name>
+        <nascimento>2003-01-12</nascimento>
+        <email>saloi@gmail.com</email>
+        <telefone>55555555555</telefone>
+    </contato>
+    <contato>
+        <name>Saloi</name>
+        <nascimento>2003-01-12</nascimento>
+        <email>saloi@gmail.com</email>
+        <telefone>55555555555</telefone>
+    </contato>
+    <contato>
+        <name>Saloi</name>
+        <nascimento>2003-01-12</nascimento>
+        <email>saloi@gmail.com</email>
+        <telefone>55555555555</telefone>
+    </contato>
+    <contato>
+        <name>Saloi</name>
+        <nascimento>2003-01-12</nascimento>
+        <email>saloi@gmail.com</email>
+        <telefone>55555555555</telefone>
+    </contato>
+</contatos>
