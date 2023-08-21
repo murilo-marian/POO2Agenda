@@ -63,6 +63,7 @@ public class Contato {
         this.persistencia = persistencia;
     }
 
+
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("Contato{");

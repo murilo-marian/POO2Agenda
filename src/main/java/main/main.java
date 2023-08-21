@@ -19,8 +19,10 @@ public class main {
                 "48988032892", "murilomarian.mm@gmail.com", json);
         Contato contato2 = new Contato("Saloi", LocalDate.of(2003, 1, 12),
                 "55555555555", "saloi@gmail.com", xml);
+        Contato contato3 = new Contato("Rodrigo", LocalDate.of(2002, 4, 2), "333333333", "rodrigo@gmail.com", csv);
         contato.salvar();
         contato2.salvar();
+        contato3.salvar();
 
 
         System.out.println("JSON");
